@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cel3yxbq43x68"]
+
+[ext_resource type="Script" path="res://Templates/game_environment.gd" id="1_lqdwy"]
+
+[node name="GameEnvironment" type="Node"]
+script = ExtResource("1_lqdwy")
